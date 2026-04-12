@@ -2,22 +2,14 @@ Goal: Define a clear business problem and identify a relevant dataset. Translate
 
 My chosen dataset: tech_mental_health_burnout.csv
 
-Which employees are most vulnerable to burnout, and how to identify and reduce the probability of burnout?
-The target variable in this case is burnout.
+Problem Statement: Which employees are most vulnerable to burnout, and how can we identify and reduce the probability of burnout?
 
-This analysis is intended for HR managers and company leadership to help them understand and reduce workplace burnout.
+Target Variable: The target variable in this case is burnout.
 
-When companies value profit margins over employee health, it tends to prove inefficient. As employee burnout rises, work productivity slows, quality of work worsens, missed deadlines increase, and turnover rates rise. As a student, my next step in life is to work as a full-time employee. I would want an environment that prioritizes the overall well-being of employees.
+Use Case / Domain Context: This analysis is intended for HR managers and company leadership to help them understand and reduce workplace burnout.
 
-The dataset chosen explores
+Justification of the Dataset: The dataset explores various factors for each employee, ranging from stress level, depression, company size, and sleep hours. Examining each factor reveals correlations between them and an employee's burnout score.
 
-Identifying factors that contribute to burnout early on can reduce the strain on employees. This model allows employers to be proactive in creating a productive and healthy environment.
+Potential Value of the Model: When companies value profit margins over employee health, it tends to prove inefficient. As employee burnout rises, work productivity slows, quality of work worsens, missed deadlines increase, and turnover rates rise. Identifying contributing factors early can reduce strain on employees, allowing employers to be proactive in creating a productive and healthy work environment.
 
-Tasks:
-
-Select and identify a dataset from resources covered in class, linked under Spring 2026 project
-Define a problem statement (What are you predicting and why?)
-Identify the target variable
-Describe the use case / domain context
-Justify the dataset you chose - why does it interest you?
-Discuss potential value of the model (decision-making impact)
+\
