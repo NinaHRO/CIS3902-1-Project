@@ -11,5 +11,3 @@ Use Case / Domain Context: This analysis is intended for HR managers and company
 Justification of the Dataset: The dataset explores various factors for each employee, ranging from stress level, depression, company size, and sleep hours. Examining each factor reveals correlations between them and an employee's burnout score.
 
 Potential Value of the Model: When companies value profit margins over employee health, it tends to prove inefficient. As employee burnout rises, work productivity slows, quality of work worsens, missed deadlines increase, and turnover rates rise. Identifying contributing factors early can reduce strain on employees, allowing employers to be proactive in creating a productive and healthy work environment.
-
-\
