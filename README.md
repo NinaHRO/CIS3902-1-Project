@@ -1,3 +1,5 @@
+LINK: https://colab.research.google.com/drive/1lN8ZJh0Mc3Ikc6YS4Pjs9hLBmaMFsT2u?usp=sharing
+
 Goal: Define a clear business problem and identify a relevant dataset. Translate a real-world problem into a predictive modeling task.
 
 My chosen dataset: tech_mental_health_burnout.csv
